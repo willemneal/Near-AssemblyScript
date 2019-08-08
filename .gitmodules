@@ -1,0 +1,12 @@
+[submodule "assemblyscript"]
+	path = assemblyscript
+	url = git@github.com:nearprotocol/assemblyscript.git
+[submodule "assemblyscript-json"]
+	path = assemblyscript-json
+	url = git@github.com:WebAssemblyOS/assemblyscript-json.git
+[submodule "near-runtime-ts"]
+	path = near-runtime-ts
+	url = git@github.com:willemneal/near-runtime-ts.git
+[submodule "near-shell"]
+	path = near-shell
+	url = git@github.com:willemneal/near-shell.git
