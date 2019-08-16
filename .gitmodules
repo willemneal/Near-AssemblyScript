@@ -10,3 +10,6 @@
 [submodule "near-shell"]
 	path = near-shell
 	url = git@github.com:willemneal/near-shell.git
+[submodule "NEARStudio"]
+	path = NEARStudio
+	url = git@github.com:willemneal/NEARStudio.git
