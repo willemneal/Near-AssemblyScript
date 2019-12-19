@@ -13,3 +13,9 @@
 [submodule "NEARStudio"]
 	path = NEARStudio
 	url = git@github.com:willemneal/NEARStudio.git
+[submodule "near-bindgen-as"]
+	path = near-bindgen-as
+	url = git@github.com:nearprotocol/near-bindgen-as.git
+[submodule "near-hello"]
+	path = near-hello
+	url = git@github.com:willemneal/near-hello.git
